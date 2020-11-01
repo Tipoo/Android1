@@ -1,0 +1,1412 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "108",
+                        "endOffsets": "159"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-port_values-port.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,7,8,9,10,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,415,531,657,783,911,1083",
+                        "endLines": "2,3,4,5,7,8,9,10,13,18",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,526,652,778,906,1078,1416"
+                    }
+                },
+                {
+                    "source": "/home/monk/Code/android/Code/appRtcApp/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endColumns": "60",
+                        "endOffsets": "410"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/Code/android/Code/appRtcApp/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "38,20,55,43,49,26,31,2,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1034,600,1454,1145,1309,742,859,55,341",
+                        "endLines": "41,24,57,47,53,29,36,9,18",
+                        "endColumns": "19,19,19,19,19,19,19,19,19",
+                        "endOffsets": "1139,736,1552,1303,1448,853,1028,335,594"
+                    },
+                    "to": {
+                        "startLines": "2,6,11,14,19,24,28,34,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,306,409,572,716,832,1006,1291",
+                        "endLines": "5,10,13,18,23,27,33,41,49",
+                        "endColumns": "19,19,19,19,19,19,19,19,19",
+                        "endOffsets": "160,301,404,567,711,827,1001,1286,1544"
+                    }
+                },
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/bf9b5a52845b8771aff5fabdecdcc03d/support-core-ui-27.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,66,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,2487,116,286",
+                        "endLines": "2,68,3,65",
+                        "endColumns": "60,12,169,35",
+                        "endOffsets": "111,2627,281,2482"
+                    },
+                    "to": {
+                        "startLines": "50,278,281,282",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1549,17732,17877,18047",
+                        "endLines": "50,280,281,343",
+                        "endColumns": "60,12,169,35",
+                        "endOffsets": "1605,17872,18042,20243"
+                    }
+                },
+                {
+                    "source": "/home/monk/Code/android/Code/appRtcApp/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "25,24,27,2,17,20,14,26,15,4,9,28,12,11,29,16,21,31,10,18,128,127,125,126,118,117,115,116,102,103,144,150,156,51,49,52,50,67,66,64,65,92,91,89,90,200,199,197,198,181,180,178,179,167,168,143,142,140,141,149,148,146,147,155,154,152,153,158,159,160,213,212,210,211,172,170,171,222,220,221,133,132,130,131,97,96,94,95,62,61,59,60,87,86,84,85,190,189,187,188,195,194,192,193,72,71,69,70,77,76,74,75,202,203,185,183,184,123,122,120,121,138,137,135,136,176,174,175,57,56,54,55,34,35,208,207,205,206,47,45,46,165,164,162,163,108,107,105,106,113,112,110,111,218,217,215,216,100,99,43,42,40,41,82,81,79,80,37,38,5,3,19,22,23,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1498,1445,1630,55,926,1196,719,1562,784,199,443,1696,603,545,1764,846,1282,1953,491,1095,7427,7346,7219,7283,6840,6764,6623,6693,5826,5896,8440,8851,9255,2884,2760,2938,2824,3814,3712,3538,3628,5392,5296,5124,5206,11854,11786,11666,11730,10675,10605,10476,10539,9871,9939,8372,8292,8120,8210,8783,8703,8531,8621,9188,9110,8942,9030,9344,9446,9540,12616,12543,12398,12468,10186,10022,10108,13140,12983,13062,7755,7660,7483,7563,5657,5596,5456,5520,3484,3419,3308,3364,5069,4971,4825,4889,11245,11146,10965,11059,11584,11497,11334,11414,4133,4049,3883,3963,4483,4380,4199,4289,11928,11996,10885,10753,10823,7153,7063,6898,6980,8063,7983,7835,7901,10400,10273,10337,3247,3162,3024,3094,2019,2077,12303,12225,12073,12153,2698,2550,2626,9811,9747,9607,9681,6215,6137,5973,6057,6555,6460,6283,6377,12906,12834,12696,12760,5768,5713,2493,2422,2293,2361,4768,4692,4551,4621,2146,2216,259,120,1129,1322,1381,1917",
+                        "endLines": "25,24,27,2,17,20,14,26,15,4,9,28,13,11,29,16,21,31,10,18,128,127,125,126,118,117,115,116,102,103,144,150,156,51,49,52,50,67,66,64,65,92,91,89,90,200,199,197,198,181,180,178,179,167,168,143,142,140,141,149,148,146,147,155,154,152,153,158,159,160,213,212,210,211,172,170,171,222,220,221,133,132,130,131,97,96,94,95,62,61,59,60,87,86,84,85,190,189,187,188,195,194,192,193,72,71,69,70,77,76,74,75,202,203,185,183,184,123,122,120,121,138,137,135,136,176,174,175,57,56,54,55,34,35,208,207,205,206,47,45,46,165,164,162,163,108,107,105,106,113,112,110,111,218,217,215,216,100,99,43,42,40,41,82,81,79,80,37,38,8,3,19,22,23,30",
+                        "endColumns": "63,52,65,64,168,85,64,67,61,59,47,67,13,57,152,79,39,33,53,33,54,80,63,62,56,75,69,70,69,75,89,89,87,53,63,84,59,67,101,89,83,62,95,81,89,72,67,63,55,76,69,62,65,67,81,67,79,89,81,67,79,89,81,66,77,87,79,101,93,65,78,72,69,74,85,85,77,65,78,77,78,94,79,96,54,60,63,75,52,64,55,54,53,97,63,81,87,98,93,86,80,86,79,82,64,83,79,85,66,102,89,90,67,75,78,69,61,64,89,81,82,55,79,65,81,74,63,62,59,84,69,67,57,67,93,77,79,71,60,75,71,58,63,73,65,66,77,83,79,66,94,93,82,75,71,63,73,56,54,55,70,67,60,55,75,69,70,69,75,13,78,66,58,63,35",
+                        "endOffsets": "1557,1493,1691,115,1090,1277,779,1625,841,254,486,1759,714,598,1912,921,1317,1982,540,1124,7477,7422,7278,7341,6892,6835,6688,6759,5891,5967,8525,8936,9338,2933,2819,3018,2879,3877,3809,3623,3707,5450,5387,5201,5291,11922,11849,11725,11781,10747,10670,10534,10600,9934,10016,8435,8367,8205,8287,8846,8778,8616,8698,9250,9183,9025,9105,9441,9535,9601,12690,12611,12463,12538,10267,10103,10181,13201,13057,13135,7829,7750,7558,7655,5707,5652,5515,5591,3532,3479,3359,3414,5118,5064,4884,4966,11328,11240,11054,11141,11660,11579,11409,11492,4193,4128,3958,4044,4545,4478,4284,4375,11991,12067,10959,10818,10880,7213,7148,6975,7058,8114,8058,7896,7978,10470,10332,10395,3302,3242,3089,3157,2072,2140,12392,12298,12148,12220,2754,2621,2693,9865,9806,9676,9742,6277,6210,6052,6132,6617,6550,6372,6455,12977,12901,12755,12829,5820,5763,2544,2488,2356,2417,4819,4763,4616,4687,2211,2287,438,194,1191,1376,1440,1948"
+                    },
+                    "to": {
+                        "startLines": "85,86,87,88,89,90,91,92,93,94,95,96,97,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,259,261,262,263,264",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3693,3757,3810,3876,3941,4110,4196,4261,4329,4391,4451,4499,4567,4683,4741,4894,4974,5014,5048,5102,5136,5191,5272,5336,5399,5456,5532,5602,5673,5743,5819,5909,5999,6087,6141,6205,6290,6350,6418,6520,6610,6694,6757,6853,6935,7025,7098,7166,7230,7286,7355,7425,7488,7554,7622,7704,7772,7852,7942,8024,8092,8172,8262,8344,8411,8489,8577,8657,8759,8853,8919,8998,9071,9141,9216,9302,9388,9466,9532,9611,9689,9768,9863,9943,10040,10095,10156,10220,10296,10349,10414,10470,10525,10579,10677,10741,10823,10911,11010,11104,11191,11272,11359,11439,11522,11587,11671,11751,11837,11904,12007,12097,12188,12256,12332,12411,12481,12543,12608,12698,12780,12863,12919,12999,13065,13147,13222,13286,13349,13409,13494,13564,13632,13690,13758,13852,13930,14010,14082,14143,14219,14291,14350,14414,14488,14554,14621,14699,14783,14863,14930,15025,15119,15202,15278,15350,15414,15488,15545,15600,15656,15727,15795,15856,15912,15988,16058,16129,16199,16275,16459,16609,16676,16735,16799",
+                        "endLines": "85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,258,259,261,262,263,264",
+                        "endColumns": "63,52,65,64,168,85,64,67,61,59,47,67,13,57,152,79,39,33,53,33,54,80,63,62,56,75,69,70,69,75,89,89,87,53,63,84,59,67,101,89,83,62,95,81,89,72,67,63,55,68,69,62,65,67,81,67,79,89,81,67,79,89,81,66,77,87,79,101,93,65,78,72,69,74,85,85,77,65,78,77,78,94,79,96,54,60,63,75,52,64,55,54,53,97,63,81,87,98,93,86,80,86,79,82,64,83,79,85,66,102,89,90,67,75,78,69,61,64,89,81,82,55,79,65,81,74,63,62,59,84,69,67,57,67,93,77,79,71,60,75,71,58,63,73,65,66,77,83,79,66,94,93,82,75,71,63,73,56,54,55,70,67,60,55,75,69,70,69,75,13,78,66,58,63,35",
+                        "endOffsets": "3752,3805,3871,3936,4105,4191,4256,4324,4386,4446,4494,4562,4678,4736,4889,4969,5009,5043,5097,5131,5186,5267,5331,5394,5451,5527,5597,5668,5738,5814,5904,5994,6082,6136,6200,6285,6345,6413,6515,6605,6689,6752,6848,6930,7020,7093,7161,7225,7281,7350,7420,7483,7549,7617,7699,7767,7847,7937,8019,8087,8167,8257,8339,8406,8484,8572,8652,8754,8848,8914,8993,9066,9136,9211,9297,9383,9461,9527,9606,9684,9763,9858,9938,10035,10090,10151,10215,10291,10344,10409,10465,10520,10574,10672,10736,10818,10906,11005,11099,11186,11267,11354,11434,11517,11582,11666,11746,11832,11899,12002,12092,12183,12251,12327,12406,12476,12538,12603,12693,12775,12858,12914,12994,13060,13142,13217,13281,13344,13404,13489,13559,13627,13685,13753,13847,13925,14005,14077,14138,14214,14286,14345,14409,14483,14549,14616,14694,14778,14858,14925,15020,15114,15197,15273,15345,15409,15483,15540,15595,15651,15722,15790,15851,15907,15983,16053,16124,16194,16270,16454,16533,16671,16730,16794,16830"
+                    }
+                },
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/8d4676ad1c1ea365dc8fc79ca2b9ba4b/glide-4.9.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    },
+                    "to": {
+                        "startLines": "77",
+                        "startColumns": "4",
+                        "startOffsets": "3341",
+                        "endColumns": "57",
+                        "endOffsets": "3394"
+                    }
+                },
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,54,55,59,60,61,6,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,1245,1315,1383,1455,1525,1586,1647,1708,1770,1834,1896,1957,2025,2125,2185,2251,2324,2393,2450,2502,2564,2636,2712,2747,2782,2832,2866,2901,2936,3006,3077,3194,3395,3505,3706,3835,3907,319,880",
+                        "endLines": "2,3,4,5,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60,61,14,18",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66,35,207",
+                        "endOffsets": "119,182,240,314,1310,1378,1450,1520,1581,1642,1703,1765,1829,1891,1952,2020,2120,2180,2246,2319,2388,2445,2497,2559,2631,2707,2742,2777,2827,2861,2896,2931,3001,3072,3189,3390,3500,3701,3830,3902,3969,875,1240"
+                    },
+                    "to": {
+                        "startLines": "51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,78,79,80,81,82,83,84,260,265,266,270,271,275,276,277,344,353",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1610,1679,1742,1800,1874,1944,2012,2084,2154,2215,2276,2337,2399,2463,2525,2586,2654,2754,2814,2880,2953,3022,3079,3131,3193,3265,3399,3434,3469,3519,3553,3588,3623,16538,16835,16952,17153,17263,17464,17593,17665,20248,20809",
+                        "endLines": "51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,78,79,80,81,82,83,84,260,265,269,270,274,275,276,277,352,356",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66,35,207",
+                        "endOffsets": "1674,1737,1795,1869,1939,2007,2079,2149,2210,2271,2332,2394,2458,2520,2581,2649,2749,2809,2875,2948,3017,3074,3126,3188,3260,3336,3429,3464,3514,3548,3583,3618,3688,16604,16947,17148,17258,17459,17588,17660,17727,20804,21169"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-v17_values-v17.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/Code/android/Code/appRtcApp/app/src/main/res/values-v17/styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,110",
+                        "endLines": "2,8",
+                        "endColumns": "55,10",
+                        "endOffsets": "106,341"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endLines": "2,7",
+                        "endColumns": "56,10",
+                        "endOffsets": "107,343"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/monk/Code/android/Code/appRtcApp/app/build/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

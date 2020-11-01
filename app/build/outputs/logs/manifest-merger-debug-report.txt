@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/8d4676ad1c1ea365dc8fc79ca2b9ba4b/glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/6f76bce5f6abd382f1544b95eaf211d4/gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/34b522c8855e0c73cf9effc4a9a32013/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/8620ba8927b39a6d291db6ea05c53d76/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/bf9b5a52845b8771aff5fabdecdcc03d/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/beeb82b2510e87c5231b2c828dbda485/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/d8d452f44ab125f201933d0870752fbc/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/eb11e490220b2b77e71b21d47a6ef261/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/555b39dad4a9593ee5ac0435517d4a05/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/115e96da560aef7a1eded67ff187307e/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/f3d8400d34d44a28d45a1ffcf10f060c/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:4:11-39
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:6:11-36
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:5:11-34
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:9:19-67
+uses-feature#0x00020000
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:10:5-78
+	android:glEsVersion
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:10:19-51
+	android:required
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:10:52-75
+uses-permission#android.permission.CAMERA
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:19:22-76
+application
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:22:5-58:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/8d4676ad1c1ea365dc8fc79ca2b9ba4b/glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/8d4676ad1c1ea365dc8fc79ca2b9ba4b/glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/6f76bce5f6abd382f1544b95eaf211d4/gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/6f76bce5f6abd382f1544b95eaf211d4/gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:26:18-45
+	android:label
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:22:18-50
+	android:debuggable
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:25:18-43
+	tools:ignore
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:27:18-51
+	android:icon
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:23:18-54
+	android:allowBackup
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:24:18-45
+activity#org.appspot.apprtc.ConnectActivity
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:29:9-45:20
+	android:label
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:30:19-51
+	android:windowSoftInputMode
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:31:19-58
+	android:theme
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:32:19-50
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:29:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:35:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:appr.tc+data:host:appr.tc+data:scheme:http+data:scheme:https
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:38:13-44:29
+action#android.intent.action.VIEW
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:40:17-75
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:40:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:41:27-75
+data
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:42:17-70
+	android:host
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:42:46-68
+	android:scheme
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:42:23-45
+activity#org.appspot.apprtc.SettingsActivity
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:48:19-56
+	android:theme
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:49:19-50
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:47:19-50
+activity#org.appspot.apprtc.CallActivity
+ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:52:9-57:20
+	android:screenOrientation
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:54:19-55
+	android:label
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:53:19-51
+	android:configChanges
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:55:19-97
+	android:theme
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:56:19-59
+	android:name
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml:52:19-46
+uses-sdk
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/8d4676ad1c1ea365dc8fc79ca2b9ba4b/glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/8d4676ad1c1ea365dc8fc79ca2b9ba4b/glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/6f76bce5f6abd382f1544b95eaf211d4/gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/monk/.gradle/caches/transforms-2/files-2.1/6f76bce5f6abd382f1544b95eaf211d4/gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/34b522c8855e0c73cf9effc4a9a32013/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/34b522c8855e0c73cf9effc4a9a32013/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/8620ba8927b39a6d291db6ea05c53d76/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/8620ba8927b39a6d291db6ea05c53d76/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/bf9b5a52845b8771aff5fabdecdcc03d/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/bf9b5a52845b8771aff5fabdecdcc03d/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/beeb82b2510e87c5231b2c828dbda485/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/beeb82b2510e87c5231b2c828dbda485/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/d8d452f44ab125f201933d0870752fbc/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/d8d452f44ab125f201933d0870752fbc/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/monk/.gradle/caches/transforms-2/files-2.1/222ad3875af524dbeddaea9e092a0d60/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/eb11e490220b2b77e71b21d47a6ef261/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/eb11e490220b2b77e71b21d47a6ef261/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/555b39dad4a9593ee5ac0435517d4a05/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/555b39dad4a9593ee5ac0435517d4a05/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/115e96da560aef7a1eded67ff187307e/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/115e96da560aef7a1eded67ff187307e/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/f3d8400d34d44a28d45a1ffcf10f060c/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/monk/.gradle/caches/transforms-2/files-2.1/f3d8400d34d44a28d45a1ffcf10f060c/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monk/Code/android/Code/appRtcApp/app/src/main/AndroidManifest.xml
